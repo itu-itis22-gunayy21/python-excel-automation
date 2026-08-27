@@ -1,6 +1,6 @@
 # 📊 Python Excel Automation — Sales Report Generator
 
-> Automate your Excel reports: upload raw sales data and get a professional, chart-rich report in seconds.
+> An automated Python data processing tool that converts raw sales Excel files into presentation-ready, chart-rich reports in seconds.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.x-green?logo=pandas)
@@ -138,6 +138,7 @@ MIT License — free for personal and commercial use.
 
 ---
 
-**Built by [Your Name]** — ITU Computer Engineering
+**Built by Yasin Günay** — Computer Engineering, Istanbul Technical University
 
-*Need a custom Excel automation solution? [Contact me](mailto:your@email.com)*
+*Need a custom Excel automation solution? Contact me*
+
