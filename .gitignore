@@ -1,0 +1,20 @@
+# Byte-compiled / optimised
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+
+# Output files (regeneratable)
+reports/
+sample_data/
+
+# OS files
+.DS_Store
+Thumbs.db
